@@ -1,5 +1,5 @@
-# Real-Time-operating-system-Communication-project-
-Real-Time operating system Communication project 
+# Real-Time-operating-system-Communication-project                    
+ 
 
 The project is implemented using FreeRTOS on the target emulation board provided via Eclipse CDT
 Embedded.
