@@ -26,7 +26,8 @@ is waiting/blocked on. The receiver task is then unblocked and performs a read o
 above. When the receiver receives 500 messages, the receiver timer callback function calls the “Reset”
 function that performs the following:
 
- 1- Print the total number of successfully sent messages and the total number of blocked messages
+ 1- Print the total number of successfully sent messages and the total number of blocked messages.
+ 
  2- Reset the total number of successfully sent messages, the total number of blocked messages
  and received message
  3- Clears the queue
